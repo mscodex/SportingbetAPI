@@ -7,8 +7,8 @@ import telebot
 class bot:
     def __init__(self):
         self.name = 'Blaze Double'
-        self.token_bot = 'TOKEN DO BOT'
-        self.user_id = 'CHAT ID'
+        self.token_bot = '5600250252:AAEIsrbnLBQiVQr0Prl3rIwJVU4XLrOLAWM'
+        self.user_id = '-1001878606255'
         self.link = 'http://api.mxvinvest.com:63000/blaze-double'
         self.result = None
         self.now = None
